@@ -1,0 +1,12 @@
+name: garmin_activities
+title: garmin_activities
+username: avitalpelakh
+account: avitalpelakh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13708696
+bundleId: 9643314
+url: https://avitalpelakh.shinyapps.io/garmin_activities/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

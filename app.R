@@ -8,8 +8,8 @@ library(showtext)
 library(tidyverse)
 library(reactable)
 library(lubridate)
-library(plotly)
 library(bsicons)
+library(markdown)
 
 # Data Setup ----
 
@@ -337,9 +337,6 @@ server <- function(input, output) {
   ## listeners ----
   
   observeEvent(input$var_y, {
-    
-    print(input$var_y)
-    print(input$plot2_var_x)
     
     updateSelectizeInput(
       inputId = "plot2_var_x",

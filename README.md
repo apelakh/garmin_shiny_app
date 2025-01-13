@@ -4,6 +4,8 @@ This Shiny app was inspired by the [Tidy Tuesday](https://github.com/rfordatasci
 
 The data are my personal running activities downloaded from Garmin Connect. Feel free to check out the [source code](https://github.com/apelakh/garmin_shiny_app) and [send me any feedback, questions, or suggestions](mailto:apelakh@gmail.com). I may continue to update the app as I have time!
 
+Test a live version of the app on [shinyapps.io](https://avitalpelakh.shinyapps.io/garmin_activities/)
+
 #### Some details about the variables and units of measure:
 
 -   Distance is shown in miles
